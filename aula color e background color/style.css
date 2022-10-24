@@ -1,0 +1,13 @@
+#paragrafo1 {
+    color: red;
+    /*cores usando o nome*/
+    background-color: blue;
+    /*cores usando rgb*/
+    background-color: rgb(200, 200, 0);
+    /*cores em hexadecimal*/
+    background-color: #ff6400;
+    /*cores usando rgba (red, green, blue, alpha sendo alpha a opacidade)*/
+    background-color: rgba(255, 255, 0, 0.5);
+    /*cores e hexadecimal adicionando a opacidade*/
+    background-color: #ff640064;
+}
