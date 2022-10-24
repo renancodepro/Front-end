@@ -1,4 +1,13 @@
 p {
-    color:black;
-    background-color: blueviolet;
+    color: pink;
+    background-color:yellow;
+}
+
+#paragrafo1 {
+    color: red;
+    background-color:transparent; 
+}
+
+.fundo-azul {
+    background-color: blue;
 }
