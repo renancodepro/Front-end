@@ -9,7 +9,11 @@ body {
 }
 
 .name {
-    
+    width: 200px;
+    left: 1060px;
+    position: absolute;
+    margin-bottom: 10px;
+
 
 }
 
@@ -18,7 +22,6 @@ body {
 }
 
 #fotorenan {
-    background-attachment: fixed;
     top: 50px; 
     left: 1000px;
     position: absolute;
@@ -26,6 +29,7 @@ body {
 }
 
 p {
+    
     
 }
 .corpo {

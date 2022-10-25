@@ -1,0 +1,22 @@
+.verde {
+    height: 100px;
+    /*transição inclinada*/
+    background: linear-gradient(to top left,red,orange,blue);
+    background: linear-gradient(to top  right,red,orange,blue);
+    background: linear-gradient(to bottom right,red,orange,blue);
+    background: linear-gradient(to bottom left,red,orange,blue);
+    /*transição para baixo*/
+    background: linear-gradient(to bottom,red,orange,blue);
+    /*transição para cima*/
+    background: linear-gradient(to top ,red,orange,blue);
+    /*ransição para a esquerda*/
+    background: linear-gradient(to left,red,orange,blue);
+    /*transição para direita*/
+    background: linear-gradient(to right,red,orange,blue);
+    /*O azul vai ficar o mais azul possível em 25%*/
+    background: linear-gradient(to right,red,blue 25%, orange);
+    /* 30 deg significa 30 graus*/
+    background: linear-gradient(30deg,red,orange,blue);
+    /* a transição será em 20%*/
+    background: linear-gradient(to right,red,20%,blue);
+}
