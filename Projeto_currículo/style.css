@@ -1,15 +1,33 @@
-*{
+* {
     color: white;
 }
+
 body {
-    background: url("./imagens/pexels-josh-sorenson-1714208.jpg") no-repeat ;
-    background-size:cover;
-}   
-#name {
+    background: url("./imagens/pexels-josh-sorenson-1714208.jpg") no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.name {
     
-    color: white
+
+}
+
+.cabeçalho {
     
 }
-#cabeçalho {
-    color: white;
+
+#fotorenan {
+    background-attachment: fixed;
+    top: 50px; 
+    left: 1000px;
+    position: absolute;
+
+}
+
+p {
+    
+}
+.corpo {
+  position: absolute;
 }
