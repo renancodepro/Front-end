@@ -1,0 +1,12 @@
+.foto-perfil {
+    /*raio de borda 100%*/
+    border-radius: 100%;
+    /*tamanho máximo 200px*/
+    max-width: 200px;
+    /*borda de 1px solida e preta*/
+    border: 1px solid black;
+}
+
+body {
+    background-color: #f7f7f7;
+}
