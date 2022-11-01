@@ -1,0 +1,39 @@
+#foto {
+    width: 100px;
+}
+
+#foto2 {
+    width: 1in;
+}
+
+#foto3 {
+    width: 3cm;
+}
+
+#foto4 {
+    width: 30mm;
+}
+
+#foto5 {
+    width: 80pt;
+}
+
+#foto6 {
+    width: 6pc;
+}
+
+#azul {
+    width: 50vw;
+    height: 500px;
+    background-color: blue;
+}
+
+#vermelha {
+    width: 500px;
+    height: 500px;
+    background-color: red;
+}
+
+.foto {
+    width: 200px;
+}
